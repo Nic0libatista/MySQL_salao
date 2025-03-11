@@ -3,6 +3,7 @@
 	docker ps -a
 	
 	(na VM ir em configuraçoes > redes > redirecionamento de portas)
+    
     > confira a imagem redirecionamentodeportas.png
     ![](img/redirecionamentodeportas.png")
 	
