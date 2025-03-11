@@ -3,7 +3,7 @@
 	docker ps -a
 	
 	(na VM ir em configuraçoes > redes > redirecionamento de portas)
-    <img url="redirecionamentodeportas.png">
+    ![](img/redirecionamentodeportas.png")
 	
 
 CREATE DATABASE SalaoCabeleireiro;
@@ -128,7 +128,7 @@ JOIN
 WHERE 
     Clientes.nome = 'paulo souza';
 
-<img src="cliente_especifico.png">
+ ![](img/cliente_especifico.png)
 
 
 -- mostra faturamento de uma data especifica 
@@ -142,4 +142,4 @@ where
 	data_pagamento = '2025-03-09';
 
 
-<img src="faturamentoespecifico.png">
+ ![](img/faturamentoespecifico.png)
