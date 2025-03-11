@@ -3,6 +3,7 @@
 	docker ps -a
 	
 	(na VM ir em configuraçoes > redes > redirecionamento de portas)
+    > confira a imagem redirecionamentodeportas.png
     ![](img/redirecionamentodeportas.png")
 	
 
@@ -128,6 +129,7 @@ JOIN
 WHERE 
     Clientes.nome = 'paulo souza';
 
+ > confira a imagem cliente_especifico.png
  ![](img/cliente_especifico.png)
 
 
@@ -141,5 +143,5 @@ FROM
 where 
 	data_pagamento = '2025-03-09';
 
-
+ > confira a imagem faturamentoespecifico.png 
  ![](img/faturamentoespecifico.png)
